@@ -49,9 +49,7 @@ streamlit run frontend.py
 3. View optimized schedule and insights
 4. Download reports as needed
 
-## Screenshots
 
-[Add screenshots of your application here]
 
 ## Contributing
 
